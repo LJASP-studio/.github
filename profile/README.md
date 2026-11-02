@@ -17,7 +17,7 @@
     <td>
       <strong><a href="https://github.com/LJASP-studio/Cumba">Cumba</a></strong> · macOS · open source (MIT)<br>
       Turns the MacBook notch into a panel: a mini player for whatever plays, Claude Code and Codex progress and approvals, widgets in tabs, and themes.<br>
-      <a href="https://github.com/LJASP-studio/Cumba/releases/latest">Download</a> · <a href="https://github.com/LJASP-studio/Cumba#readme">Read more</a>
+      <a href="https://cumbanotch.com">cumbanotch.com</a> · <a href="https://github.com/LJASP-studio/Cumba/releases/latest">Download</a> · <a href="https://github.com/LJASP-studio/Cumba#readme">Read more</a>
     </td>
   </tr>
   <tr>
