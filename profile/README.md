@@ -23,9 +23,9 @@
   <tr>
     <td width="96" align="center"><img src="ljasp.png" alt="LJASP icon" width="72"></td>
     <td>
-      <strong><a href="https://www.ljasp.com">LJASP</a></strong> · Web · Turkish, English, Spanish, French<br>
+      <strong><a href="https://play.ljasp.com">LJASP</a></strong> · Web · Turkish, English, Spanish, French<br>
       A deterministic football management simulation. Your calls, your match: the engine plays out every decision the same way each time. The studio is named after it.<br>
-      <a href="https://www.ljasp.com">Play</a>
+      <a href="https://play.ljasp.com">Play</a>
     </td>
   </tr>
 </table>
