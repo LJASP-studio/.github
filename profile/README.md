@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  A small independent studio from İstanbul, making software that leaves you in charge.<br>
+  A one-person studio making software that leaves you in charge.<br>
   <a href="https://www.ljasp.com">ljasp.com</a> · <a href="mailto:info@ljasp.com">info@ljasp.com</a>
 </p>
 
